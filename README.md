@@ -1,0 +1,111 @@
+<html>
+<head >
+<h1 align="right"><button><a href="More(attack on titan).html">more</a></button></h1>
+<title>One piece.Wiki</title>
+<style>
+.column {
+  border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+  text-color: white;}
+div.container {
+ width:100%;
+overflow: auto;
+}
+.div1 {
+    width: 33.33%;
+    float: right;
+          }
+.div2 {
+    width: 33.33%;
+    margin:0 auto;
+          }
+.div3{
+    width:33.33%;
+   float:left;   
+         }
+.end{
+    background-color: #002966;
+    text-color: #f2f2f2;
+}
+ 
+</style>
+
+</head >
+<body>
+<img src="C:\Users\student\Pictures\Saved Pictures\one-piece-logo-theory-updated-v0-sh9uj0bn5vbd1.webp" height="150" width="200">
+<hr style="background-color:darkblue;"  size="5"></hr>
+<marquee><b><H1 style="color:black"> This   site   is   only   for   information   purpose   It   is   based   on  onepiece wikipedia.com   </H1></b></marquee>
+<hr style="background-color:darkblue;"  size="5"></hr>
+<br><br>
+<div class="column">
+<h2>This article is about the manga series. For the anime, see One Piece (1999 TV series). For the live action, see One Piece (2023 TV series). For other uses, see One Piece (disambiguation).</h2>
+</div> 
+<center><img src="C:\Users\student\Pictures\Saved Pictures\one-piece-egghead-3840x2160-14417.jpeg" height="500" width="900" ></center>
+<br>
+<br>
+<hr style="background-color:darkblue;" size="15"</hr>
+<div class="div.container">
+<div  class="div3" >
+<ul>
+<a href="https://en.wikipedia.org/wiki/One_Piece">
+<li><button><h3>reference</h3></button></li>
+</a>
+<br>
+<a href="https://www.imdb.com/title/tt0388629/">
+<li><button><h3>History</h3></button></li>
+</a>
+<br>
+<li><button><h3>Home</h3></button></li>
+<br>
+<a href="https://en.wikipedia.org/wiki/Eiichiro_Oda">
+<li><button><h3>Author</h3></button></li>
+</a>
+<br>
+<a href="https://www.google.com/search?q=Animes&rlz=1C1GCEB_enIN1038IN1038&oq=Animes&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIMCAgQABgKGLEDGIAEMgcICRAAGI8C0gEJMTkxNWowajE1qAIIsAIB8QVh-HcN1hxH7PEFYfh3DdYcR-w&sourceid=chrome&ie=UTF-8">
+<li><button><h3>Other Animes</h3></button></li>
+</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img border="10" src="C:\Users\student\Pictures\Saved Pictures\png-transparent-one-piece-logo-monkey-d-luffy-one-piece-usopp-logo-pirate-hat-manga-jolly-roger-smiley-thumbnail.png" height="600" width="600">
+</ul>
+</div>
+<div class="div1">
+<img border="5" src="C:\Users\student\Pictures\Saved Pictures\l6cj5_512.webp" height="700" width="600">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="C:\Users\student\Pictures\Saved Pictures\MV5BYjI0YWJhZTUtMTJhNy00OTEzLThkMjItOThkMmIzMmU4YjliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="850" width="600" border="5px:solid">
+
+</div>
+<div class="div2" >
+<h3>One Piece (stylized in all caps) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its chapters compiled in 110 tankōbon volumes as of November 2024. The series follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, as he explores the Grand Line in search of the mythical treasure known as the "One Piece" to become the next King of the Pirates.</h3>
+<br>
+<h3>
+The manga spawned a media franchise, having been adapted into a festival film by Production I.G, and an anime series by Toei Animation, which began broadcasting in 1999. Additionally, Toei has developed fourteen animated feature films, one original video animation, and thirteen television specials. Several companies have developed various types of merchandising and media, such as a trading card game and numerous video games. The manga series was licensed for an English language release in North America and the United Kingdom by Viz Media and in Australia by Madman Entertainment. The anime series was licensed by 4Kids Entertainment for an English-language release in North America in 2004 before the license was dropped and subsequently acquired by Funimation in 2007. Netflix released a live action TV series adaptation in 2023.
+</h3>
+<br>
+<h3>One Piece has received praise for its storytelling, world-building, art, characterization, and humour. It has received many awards and is ranked by critics, reviewers, and readers as one of the best manga of all time. By August 2022, it had over 516.6 million copies in circulation in 61 countries and regions worldwide, making it the best-selling manga series in history, and the best-selling comic series printed in a book volume. Several volumes of the manga have broken publishing records, including the highest initial print run of any book in Japan. In 2015 and 2022, One Piece set the Guinness World Record for "the most copies published for the same comic book series by a single author". It was the best-selling manga for eleven consecutive years from 2008 to 2018 and is the only manga that had an initial print of volumes of above 3 million continuously for more than 10 years, as well as the only one that had achieved more than 1 million copies sold in all of its over 100 published tankōbon volumes. One Piece is the only manga whose volumes have ranked first every year in Oricon's weekly comic chart existence since 2008.
+</h3>
+<br>
+<hr style="background-color:skyblue;" size="10"></hr>
+<h1><i>Synopses</h1>
+<hr style="background-color:skyblue;" size="10"></hr>
+<img src="C:\Users\student\Pictures\Saved Pictures\Onepiece-welt_(2) (1).png" height="300" width="300" border="5:solid";>
+<h2>The world of One Piece is populated by humans and other races such as dwarves (more akin to faeries in size), giants, merfolk, fish-men, long-limbed tribes, long-necked people known as the Snakeneck Tribe, and animal people (known as "Minks"). The world is governed by an intercontinental organization known as the World Government, consisting of dozens of member countries. The Navy is the sea military branch of the World Government that protects the known seas from pirates and other criminals. There is also Cipher Pol which is a group of agencies within the World Government that are their secret police. While pirates are major opponents of the Government, the ones who challenge their rule are the Revolutionary Army who seek to overthrow them. The central tension of the series pits the World Government and their forces against pirates. The series regularly emphasizes moral ambiguity over the label "pirate", which includes cruel villains, but also any individuals who do not submit to the World Government's authoritarian—and often morally ambiguous—rule. The One Piece world also has supernormal characteristics like Devil Fruits,[Jp 1] which are mysterious fruits that grant whoever eats them transformative powers at the cost of becoming weakened in bodies of water, resulting in them losing the ability to swim. Another supernatural power is Haki,[Jp 2] which grants its users enhanced willpower, observation, and fighting abilities, and it is one of the only effective methods of inflicting bodily harm on certain Devil Fruit users.</h2>
+<br>
+<h2>The world itself consists of two vast oceans divided by a massive mountain range called the Red Line.[Jp 3] Within the oceans is a second global phenomenon known as the Grand Line,[Jp 4] which is a sea that runs perpendicular to the Red Line and is bounded by the Calm Belt,[Jp 5] strips of calm ocean infested with huge ship-eating monsters known as Sea Kings.[Jp 6] These geographical barriers divide the world into four seas: North Blue,[Jp 7] East Blue,[Jp 8] West Blue,[Jp 9] and South Blue.[Jp 10] Passage between the four seas, and the Grand Line, is therefore difficult. Unique and mystical features enable transport between the seas, such as the use of Sea Prism Stone[Jp 11] employed by government ships to mask their presence as they traverse the Calm Belt, or the Reverse Mountain[Jp 12] where water from the four seas flows uphill before merging into a rapidly flowing and dangerous canal that enters the Grand Line. The Grand Line itself is split into two separate halves with the Red Line between being Paradise[Jp 13] and the New World.[Jp 14]</h2>
+<br>
+<hr style="background-color:skyblue;" size="10"></hr>
+<marquee><img src="C:\Users\student\Pictures\Saved Pictures\YFFD3QBX2ZHX5CQCLGKWBTBUJA.avif" height="100" width="500"></marquee>
+<hr style="background-color:skyblue;" size="10"></hr>
+</div>
+
+</div>
+
+<div class="end">
+<h1>More about</h1>
+<img src="C:\Users\student\Pictures\Saved Pictures\a.webp">
+</div>
+
+</body>
+</html>
